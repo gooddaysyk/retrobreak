@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.gooddaysyk.twa",
+    "sha256_cert_fingerprints": ["FB:75:B3:9D:AE:A3:41:CE:1A:B6:5B:0C:0A:D8:C7:5C:63:1F:F2:EA:E6:A1:61:06:2F:F0:32:05:DC:74:05:55"]
+  }
+}]
